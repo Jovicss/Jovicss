@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jovicss
 - 👀 I’m interested in frontend web development...  
 - 🌱 I’m currently learning Vue.js HTML5 CSS3...
-- 📫 How to reach me ... mail: jovic.development@gmail.com
+- 📫 How to reach me ... mail: /
 
 
 <!---
