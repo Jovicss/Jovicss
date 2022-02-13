@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jovicss
 - 👀 I’m interested in frontend web development...  
 - 🌱 I’m currently learning FrontEnd...
-- 📫 How to reach me ... mail: /
+- 📫 How to reach me ...Discord: @Jovic#8370 and Twitter
 
 
 <!---
